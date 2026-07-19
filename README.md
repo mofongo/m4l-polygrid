@@ -9,4 +9,4 @@ cycling against a one-bar window locked to Live's transport.
 
 Or grab [`polygrid.amxd`](polygrid.amxd) directly and drop it on a MIDI track before any instrument.
 
-Download **both** `polygrid.amxd` and `polygrid_ui.js` and keep them in the same folder — the device loads its UI from the js file.
+The `.amxd` is frozen (self-contained) — one file is all you need.
